@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 
 ---
 
+Experienced Software Engineer with 5 years of expertise in developing scalable web applications and robust backend systems. Proficient in writing clean, maintainable, and efficient code while adhering to industry best practices. Demonstrated ability to collaborate effectively with cross-functional team across diverse project and organizations. Adept at working. Independently in both remote and on-site environments. Possesses a strong foundation in software development problem solving, and team collaboration. Recognized for adoptability, rapid leaning and the ability to articulate complex technical concepts to non-technical stakeholders. Skilled in applying analytical thinking and creativity to design and implement innovative solutions. Committed to contributing to high-impact projects and driving growth within a forward-thinking organization.![image](https://github.com/user-attachments/assets/98c0d4eb-d412-4a3d-9e15-42c38a40b64c)
+
+
 ## 👨‍💻 **About Me**
 - 💡 Expert in **Java, Spring Boot, Microservices, REST APIs, SQL, NoSQL, AWS**
 - 🚀 Experienced in **System Design, Cloud Computing, and Backend Development**
@@ -32,24 +35,6 @@ Here are some ideas to get you started:
 - 📚 Constantly learning **DevOps, Kubernetes, and AI in Software Development**
 - 📫 Contact me at: **kdipak1693@gmail.com**
 - 🤝 Open to collaborations in **Open Source, Backend, and Cloud Development**
-
----
-
-## 💼 **Experience**
-### 🚀 **Senior Software Engineer**
-**Company Name** | 📍 Mumbai, India | 🗓 *[Start Date] - Present*  
-- Architecting scalable, high-performance backend systems using **Java, Spring Boot, and Microservices**.
-- Designing and implementing **secure RESTful APIs** with **OAuth2 & JWT authentication**.
-- Optimizing database performance with **MySQL & PostgreSQL**.
-- Deploying cloud-based solutions on **AWS** for high availability & resilience.
-- Implementing CI/CD pipelines using **Jenkins, Docker, and Kubernetes**.
-- Mentoring junior developers and conducting **code reviews & best practices**.
-
-### 💡 **Software Engineer**
-**Previous Company Name** | 📍 [Location] | 🗓 *[Start Date] - [End Date]*  
-- Developed RESTful services and microservices architecture for enterprise applications.
-- Worked on performance tuning, logging (**Log4j**), and security enhancements.
-- Integrated **Gradle & Maven** for efficient build and dependency management.
 
 ---
 
