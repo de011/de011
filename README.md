@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Kumar Deepak</h1>
+<h1 align="center">Hi 👋, this is Deepak </h1>
 <h3 align="center">🚀 Senior Software Engineer | Architecting scalable and high-performance applications</h3>
 
 <p align="center">
