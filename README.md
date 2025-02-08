@@ -35,6 +35,24 @@ Here are some ideas to get you started:
 
 ---
 
+## 💼 **Experience**
+### 🚀 **Senior Software Engineer**
+**Company Name** | 📍 Mumbai, India | 🗓 *[Start Date] - Present*  
+- Architecting scalable, high-performance backend systems using **Java, Spring Boot, and Microservices**.
+- Designing and implementing **secure RESTful APIs** with **OAuth2 & JWT authentication**.
+- Optimizing database performance with **MySQL & PostgreSQL**.
+- Deploying cloud-based solutions on **AWS** for high availability & resilience.
+- Implementing CI/CD pipelines using **Jenkins, Docker, and Kubernetes**.
+- Mentoring junior developers and conducting **code reviews & best practices**.
+
+### 💡 **Software Engineer**
+**Previous Company Name** | 📍 [Location] | 🗓 *[Start Date] - [End Date]*  
+- Developed RESTful services and microservices architecture for enterprise applications.
+- Worked on performance tuning, logging (**Log4j**), and security enhancements.
+- Integrated **Gradle & Maven** for efficient build and dependency management.
+
+---
+
 ## 🌐 **Connect with Me**
 <p align="center">
 <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
