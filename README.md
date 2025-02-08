@@ -24,11 +24,8 @@ Here are some ideas to get you started:
 
 ---
 
-Experienced Software Engineer with 5 years of expertise in developing scalable web applications and robust backend systems. Proficient in writing clean, maintainable, and efficient code while adhering to industry best practices. Demonstrated ability to collaborate effectively with cross-functional team across diverse project and organizations. Adept at working. Independently in both remote and on-site environments. Possesses a strong foundation in software development problem solving, and team collaboration. Recognized for adoptability, rapid leaning and the ability to articulate complex technical concepts to non-technical stakeholders. Skilled in applying analytical thinking and creativity to design and implement innovative solutions. Committed to contributing to high-impact projects and driving growth within a forward-thinking organization.![image](https://github.com/user-attachments/assets/98c0d4eb-d412-4a3d-9e15-42c38a40b64c)
-
-
 ## 👨‍💻 **About Me**
-- 💡 Expert in **Java, Spring Boot, Microservices, REST APIs, SQL, NoSQL, AWS**
+- 💡 Expert in **Java, Spring, Spring Boot, Microservices, REST APIs, SQL, PostgreSql, AWS**
 - 🚀 Experienced in **System Design, Cloud Computing, and Backend Development**
 - 🏗 Passionate about **Scalable Backend Systems & Distributed Computing**
 - 🔥 Active Open Source Contributor & Tech Speaker 🎙
@@ -75,6 +72,12 @@ Experienced Software Engineer with 5 years of expertise in developing scalable w
 ![WildFly](https://img.shields.io/badge/WildFly-FF5733?style=for-the-badge&logo=wildfly&logoColor=white)
 ![Log4j](https://img.shields.io/badge/Log4j-FF0000?style=for-the-badge&logo=apache&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![JUnit + PowerMockito](https://img.shields.io/badge/JUnit+PowerMockito-6DB33F?style=for-the-badge&logo=junit5&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS CodeDeploy](https://img.shields.io/badge/AWS_CodeDeploy-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 🔧 **IDEs & Tools**
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
