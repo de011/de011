@@ -68,32 +68,30 @@
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 **GitHub Stats**  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=de011&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=de011&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br>
-
-  <!-- Most Used Technologies Box -->
-  <table>
-    <tr>
-      <td align="center">
-        <b>Most Used Technologies</b>
-        <br>
-        <!-- Existing Most Used Technologies Image -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de011&langs_count=6&theme=dark&layout=compact&custom_title=Most%20Used%20Technologies&hide=html,css,javascript,scala,shell" alt="Most Used Technologies" />
-        <br><br>
-        <!-- Manually Added Technologies -->
-        <img src="https://img.shields.io/badge/Java-99.50%25-orange" />
-        <img src="https://img.shields.io/badge/Python-85%25-blue" />
-        <img src="https://img.shields.io/badge/AWS-75%25-yellow" />
-        <img src="https://img.shields.io/badge/REST-90%25-green" />
-        <img src="https://img.shields.io/badge/GraphQL-70%25-purple" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de011&langs_count=6&theme=dark&layout=compact&custom_title=Most%20Used%20Technologies&hide=html,css,javascript,scala,shell" alt="Most Used Technologies" />
 </p>
+
+### **Most Used Technologies**  
+- **Languages:**  
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+- **Frameworks:**  
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
+- **APIs:**  
+  ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white)  
+  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
+- **Cloud:**  
+  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+- **Databases:**  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 ---
 
