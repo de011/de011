@@ -10,10 +10,10 @@
 ## 👨‍💻 **About Me**
 - 💡 Expert in **Java, Spring, Spring Boot, Microservices, REST APIs, SQL, PostgreSQL, AWS**
 - 🚀 Experienced in **System Design, Cloud Computing, and Backend Development**
-- 🏗 Passionate about **Scalable Backend Systems & Distributed Computing**
-- 🔥 Active **Open Source Contributor** & **Tech Speaker 🎙**
+- 🏠 Passionate about **Scalable Backend Systems & Distributed Computing**
+- 🔥 Active **Open Source Contributor** & **Tech Speaker 🎧**
 - 📚 Constantly learning **DevOps, Kubernetes, and AI in Software Development**
-- 📫 Contact me at: **kdipak1693@gmail.com**
+- 📧 Contact me at: **kdipak1693@gmail.com**
 - 🤝 Open to collaborations in **Open Source, Backend, and Cloud Development**
 
 ---
@@ -22,7 +22,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/de011"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="mailto:kdipak1693@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -35,83 +34,43 @@
 ### 🚀 **Frameworks & Libraries**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-326CE5?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ### 🔥 **Databases & Storage**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔐 **Security & Authentication**
+### 🔒 **Security & Authentication**
 ![OAuth2](https://img.shields.io/badge/OAuth2-FF9800?style=for-the-badge&logo=oauth&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### ☁ **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### 🛠 **Development & Build Tools**
+### 🔧 **Development & Build Tools**
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![WildFly](https://img.shields.io/badge/WildFly-FF5733?style=for-the-badge&logo=wildfly&logoColor=white)
-![Log4j](https://img.shields.io/badge/Log4j-FF0000?style=for-the-badge&logo=apache&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### 🔧 **IDEs & Tools**
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Spring Tool Suite](https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
-## 📊 **GitHub Stats**
+## 🌊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=de011&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=de011&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br>
-
-  <!-- Most Used Technologies Box -->
-  <table>
-    <tr>
-      <td align="center">
-        <b>Most Used Technologies</b>
-        <br>
-        <!-- Existing Most Used Technologies Image -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de011&langs_count=6&theme=dark&layout=compact&custom_title=Most%20Used%20Technologies&hide=html,css,javascript,scala,shell" alt="Most Used Technologies" />
-        <br><br>
-        <!-- Manually Added Technologies -->
-        <img src="https://img.shields.io/badge/Java-99.50%25-orange" />
-        <img src="https://img.shields.io/badge/Python-85%25-blue" />
-        <img src="https://img.shields.io/badge/AWS-75%25-yellow" />
-        <img src="https://img.shields.io/badge/REST-90%25-green" />
-        <img src="https://img.shields.io/badge/GraphQL-70%25-purple" />
-      </td>
-    </tr>
-  </table>
+  
+  <b>Most Used Technologies</b>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de011&langs_count=6&theme=dark&layout=compact&custom_title=Most%20Used%20Technologies&hide=html,css,javascript,scala,shell" alt="Most Used Technologies" />
+  <br>
+  <img src="https://img.shields.io/badge/Java-99.50%25-orange" />
+  <img src="https://img.shields.io/badge/Python-85%25-blue" />
+  <img src="https://img.shields.io/badge/AWS-75%25-yellow" />
+  <img src="https://img.shields.io/badge/REST-90%25-green" />
+  <img src="https://img.shields.io/badge/GraphQL-70%25-purple" />
 </p>
 
-
-
-
-
 ---
-
-
-
-### **Most Used Technologies**
-- **Languages:** ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- **Frameworks:** ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-- **APIs:** ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white) 
-  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-- **Cloud:** ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-- **Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
 
 ## 🏆 **GitHub Trophies**
 <p align="center">
@@ -127,4 +86,4 @@
 
 ---
 
-⭐ **_If you find my work useful, please give it a ⭐!_**
+🌟 **_If you find my work useful, please give it a 🌟!_**
