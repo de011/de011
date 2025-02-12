@@ -73,21 +73,28 @@
   <img src="https://github-readme-stats.vercel.app/api?username=de011&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br>
 
-  <!-- Custom Most Used Technologies -->
-  <b>Most Used Technologies</b>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de011&langs_count=6&theme=dark&layout=compact&custom_title=Most%20Used%20Technologies&hide=html,css,javascript,scala,shell" alt="Most Used Technologies" />
-  <br>
-  
-  <!-- Manually Adding Other Technologies -->
-  <b>Most Used Technologies:</b>
-  <br>
-  <img src="https://img.shields.io/badge/Java-99.50%25-orange" />
-  <img src="https://img.shields.io/badge/Python-85%25-blue" />
-  <img src="https://img.shields.io/badge/AWS-75%25-yellow" />
-  <img src="https://img.shields.io/badge/REST-90%25-green" />
-  <img src="https://img.shields.io/badge/GraphQL-70%25-purple" />
+  <table>
+    <tr>
+      <td>
+        <b>GitHub Stats</b>
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de011&langs_count=6&theme=dark&layout=compact&custom_title=Most%20Used%20Technologies&hide=html,css,javascript,scala,shell" alt="Most Used Technologies" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>Most Used Technologies:</b>
+        <br>
+        <img src="https://img.shields.io/badge/Java-99.50%25-orange" />
+        <img src="https://img.shields.io/badge/Python-85%25-blue" />
+        <img src="https://img.shields.io/badge/AWS-75%25-yellow" />
+        <img src="https://img.shields.io/badge/REST-90%25-green" />
+        <img src="https://img.shields.io/badge/GraphQL-70%25-purple" />
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 
 ---
