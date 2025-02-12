@@ -1,22 +1,5 @@
-
-
-<!--
-**de011/de011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi 👋, this is Deepak </h1>
-<h3 align="center">🚀 Senior Software Engineer | Architecting scalable and high-performance applications</h3>
+<h1 align="center">Hi 👋, I'm Deepak</h1>
+<h3 align="center">🚀 Senior Software Engineer | Architecting Scalable and High-Performance Applications</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=de011&label=Profile%20Views&color=blue&style=flat" alt="de011" />
@@ -25,23 +8,13 @@ Here are some ideas to get you started:
 ---
 
 ## 👨‍💻 **About Me**
-- 💡 Expert in **Java, Spring, Spring Boot, Microservices, REST APIs, SQL, PostgreSql, AWS**
+- 💡 Expert in **Java, Spring, Spring Boot, Microservices, REST APIs, SQL, PostgreSQL, AWS**
 - 🚀 Experienced in **System Design, Cloud Computing, and Backend Development**
 - 🏗 Passionate about **Scalable Backend Systems & Distributed Computing**
-- 🔥 Active Open Source Contributor & Tech Speaker 🎙
+- 🔥 Active **Open Source Contributor** & **Tech Speaker 🎙**
 - 📚 Constantly learning **DevOps, Kubernetes, and AI in Software Development**
 - 📫 Contact me at: **kdipak1693@gmail.com**
 - 🤝 Open to collaborations in **Open Source, Backend, and Cloud Development**
-
-- ## 👨‍💻 **About Me**
-- 🚀 **Senior Software Engineer** specializing in **Java, Spring Boot, Microservices, REST APIs, AWS, and PostgreSQL**.
-- 🏗 Experienced in **Scalable System Design, Distributed Computing, and Cloud-Native Applications**.
-- 🎙 Open Source Contributor & **Tech Speaker**.
-- 📚 Currently learning **DevOps, Kubernetes, and AI in Software Development**.
-- 💡 Passionate about **Backend Architecture & High-Performance Systems**.
-- 📫 Contact me at: **kdipak1693@gmail.com**
-- 🤝 Open to collaborations in **Open Source, Backend Development, and Cloud Solutions**.
-
 
 ---
 
@@ -82,12 +55,9 @@ Here are some ideas to get you started:
 ![WildFly](https://img.shields.io/badge/WildFly-FF5733?style=for-the-badge&logo=wildfly&logoColor=white)
 ![Log4j](https://img.shields.io/badge/Log4j-FF0000?style=for-the-badge&logo=apache&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![JUnit + PowerMockito](https://img.shields.io/badge/JUnit+PowerMockito-6DB33F?style=for-the-badge&logo=junit5&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![AWS CodeDeploy](https://img.shields.io/badge/AWS_CodeDeploy-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 🔧 **IDEs & Tools**
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
@@ -103,10 +73,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=de011&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de011&layout=compact&theme=dark" alt="Top Languages" />
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=de011&theme=github-dark&hide_border=false&area=true" alt="Contribution Graph" />
 </p>
-
 
 ---
 
