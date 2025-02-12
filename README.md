@@ -33,6 +33,16 @@ Here are some ideas to get you started:
 - 📫 Contact me at: **kdipak1693@gmail.com**
 - 🤝 Open to collaborations in **Open Source, Backend, and Cloud Development**
 
+- ## 👨‍💻 **About Me**
+- 🚀 **Senior Software Engineer** specializing in **Java, Spring Boot, Microservices, REST APIs, AWS, and PostgreSQL**.
+- 🏗 Experienced in **Scalable System Design, Distributed Computing, and Cloud-Native Applications**.
+- 🎙 Open Source Contributor & **Tech Speaker**.
+- 📚 Currently learning **DevOps, Kubernetes, and AI in Software Development**.
+- 💡 Passionate about **Backend Architecture & High-Performance Systems**.
+- 📫 Contact me at: **kdipak1693@gmail.com**
+- 🤝 Open to collaborations in **Open Source, Backend Development, and Cloud Solutions**.
+
+
 ---
 
 ## 🌐 **Connect with Me**
@@ -93,7 +103,10 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=de011&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de011&layout=compact&theme=dark" alt="Top Languages" />
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=de011&theme=github-dark&hide_border=false&area=true" alt="Contribution Graph" />
 </p>
+
 
 ---
 
