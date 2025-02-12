@@ -79,11 +79,10 @@
       <td align="center">
         <b>Most Used Technologies</b>
         <br>
+        <!-- Existing Most Used Technologies Image -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de011&langs_count=6&theme=dark&layout=compact&custom_title=Most%20Used%20Technologies&hide=html,css,javascript,scala,shell" alt="Most Used Technologies" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <br><br>
+        <!-- Manually Added Technologies -->
         <img src="https://img.shields.io/badge/Java-99.50%25-orange" />
         <img src="https://img.shields.io/badge/Python-85%25-blue" />
         <img src="https://img.shields.io/badge/AWS-75%25-yellow" />
@@ -93,6 +92,7 @@
     </tr>
   </table>
 </p>
+
 
 
 
