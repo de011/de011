@@ -77,7 +77,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de011&langs_count=6&theme=dark&layout=compact&custom_title=Most%20Used%20Technologies&hide=html,css,javascript,scala,shell" alt="Most Used Technologies" />
 </p>
 
-### **Most Used Technologies**  
+---
+
+### **Tech Stack**
 - **Languages:**  
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
