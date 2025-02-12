@@ -73,13 +73,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=de011&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de011&langs_count=6&theme=dark&layout=compact&custom_title=Most%20Used%20Technologies&hide=html,css,javascript,scala,shell" alt="Most Used Technologies" />
-</p>
-
-<p align="center">
-  <b>Most Used Technologies:</b> <br>
-  <b>Backend:</b> Java, Spring, Spring Boot | 
-  <b>API & Cloud:</b> REST, AWS | 
-  <b>Other:</b> Python
+  
+  <br>
+  <b>Most Used Technologies:</b>  
+  <b>Backend:</b> Java, Spring, Spring Boot |  
+  <b>API & Cloud:</b> REST, AWS |  
+  <b>Other:</b> Python  
 </p>
 
 ---
