@@ -75,6 +75,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de011&langs_count=6&theme=dark&layout=compact&custom_title=Most%20Used%20Technologies&hide=html,css,javascript,scala,shell" alt="Most Used Technologies" />
 </p>
 
+### **Most Used Technologies**
+- **Backend:** Java, Spring, Spring Boot  
+- **API & Cloud:** REST, AWS  
+- **Other:** Python  
+
 ---
 
 
