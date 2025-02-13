@@ -1,4 +1,4 @@
-<h1 align="center"> Hello Ecerybody👋 , This is Deepak </h1>
+<h1 align="center"> Hello Everybody👋 , This is Deepak </h1>
 <h3 align="center">🚀 Senior Software Engineer | Architecting Scalable and High-Performance Applications</h3>
 
 <p align="center">
